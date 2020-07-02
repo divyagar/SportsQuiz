@@ -1,0 +1,66 @@
+Afghanistan : Buzkashi
+Anguilla : Yacht Racing
+Antigua And Barbuda : Cricket
+Argentina : Pato
+Australia : Cricket
+Bangladesh : Kabaddi
+Barbados : Cricket
+Bermuda : Cricket
+Bhutan : Archery
+Brazil : Association Football
+Canada : Lacrosse,Ice Hockey
+Chile : Chilean Rodeo
+China : Ping Pong,Table Tennis
+Colombia : Tejo
+Cuba : Baseball
+Canada : Lacrosse,Ice Hockey
+Chile : Chilean Rodeo
+China : Ping Pong,Table Tennis
+Colombia : Tejo
+Cuba : Baseball
+Denmark : Association Football,Handball
+Dominican Republic : Baseball
+England : Cricket
+Estonia : Basketball
+Finland : Pesapallo,Finnish Baseball
+France : Football
+Georgia : Rugby Union
+Grenada : Cricket
+Guyana : Cricket,Water Polo
+Haiti : Association Football
+Iceland : Handball
+India : Field Hockey
+Indonesia : Pencak Silat
+Iran : Wrestling
+Ireland : Gaelic Football
+Israel : Association Football
+Jamaica : Cricket
+Japan : Sumo
+Lithuania : Basketball
+Madagascar : Rugby Union
+Malaysia : Sepak Takraw
+Mauritius : Association Football
+Mexico : Charreria
+Mongolia : Mongolian Wrestling,Archery
+Nepal : Volleyball
+New Zealand : Rugby Union
+Norway : Cross-Country Skiing 
+Pakistan : Field Hockey
+Papua New Guinea : Rugby League
+Peru : Paleta Fronton
+Philippines : Arnis
+Puerto Rico : Paso Fino
+Romania : Oina
+Russia : Bandy
+Scotland : Golf
+Slovenia : Alpine Skiing
+South Korea : Taekwondo
+Sri Lanka : Volleyball
+Tajikistan : Gushtigiri
+The Bahamas : Cricket
+Turkey : Oil Wrestling
+Turks And Caicos Islands : Cricket
+United States Of America : Baseball
+Uruguay : Destrezas Criollas
+Venezuela : Baseball
+Wales : Rugby Union
